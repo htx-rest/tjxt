@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/tjxt-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/tjxt-auth-gateway-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/tjxt-auth-resource-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-auth/tjxt-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-course/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-exam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-learning/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-media/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-message/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-promotion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-remark/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-trade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-user/src/main/java" charset="UTF-8" />
+  </component>
+</project>
