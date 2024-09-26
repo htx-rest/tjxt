@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.htx.api.config.RequestIdRelayConfiguration, \
+  com.htx.api.config.RoleCacheConfig, \
+  com.htx.api.config.FallbackConfig, \
+  com.htx.api.config.CategoryCacheConfig
