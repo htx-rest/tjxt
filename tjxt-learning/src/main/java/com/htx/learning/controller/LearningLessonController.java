@@ -1,5 +1,6 @@
 package com.htx.learning.controller;
 
+
 import com.htx.common.domain.dto.PageDTO;
 import com.htx.common.domain.query.PageQuery;
 import com.htx.learning.domain.dto.LearningPlanDTO;
@@ -10,24 +11,22 @@ import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiParam;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
 /**
- * @Author: htx
- * @GZH: 二哈学习之路
- * @Date: 2024/9/26
- * @Desc: 学生课程表 前端控制器
+ * <p>
+ * 学生课程表 前端控制器
+ * </p>
  */
 @RestController
 @RequestMapping("/lessons")
 @Api(tags = "我的课表相关接口")
 @RequiredArgsConstructor
 public class LearningLessonController {
-    @Autowired
-    private ILearningLessonService lessonService;
+
+    private final ILearningLessonService lessonService;
 
     @GetMapping("/page")
     @ApiOperation("分页查询我的课表")
