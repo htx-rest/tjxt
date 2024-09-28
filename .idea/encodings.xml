@@ -23,6 +23,10 @@
     <file url="file://$PROJECT_DIR$/tjxt-message/tjxt-message-domain/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tjxt-message/tjxt-message-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tjxt-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-pay/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-pay/tjxt-pay-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-pay/tjxt-pay-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tjxt-pay/tjxt-pay-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tjxt-promotion/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tjxt-remark/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tjxt-search/src/main/java" charset="UTF-8" />

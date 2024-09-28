@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.htx.pay.sdk.config.PayApiImportConfiguration
