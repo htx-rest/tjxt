@@ -1,0 +1,19 @@
+{
+  "groups": [
+    {
+      "name": "tjxt.auth.gateway",
+      "type": "com.htx.auth.gateway.sdk.config.AuthAutoConfiguration",
+      "sourceType": "com.htx.auth.gateway.sdk.config.AuthProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "tjxt.auth.excludePath",
+      "type": "java.util.Set",
+      "description": "不用登录就能访问的路径，ant风格通配符",
+      "sourceType": "com.htx.auth.gateway.sdk.config.AuthProperties",
+      "defaultValue": ""
+    }
+  ],
+  "hints": []
+}
